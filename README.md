@@ -56,7 +56,7 @@ Handling class imbalances
 Model Building & training on the rectified class imbalance data.
 
 ### Conclusions
-We observed there was the problem of overfitting and underfitting which solved by Data augmentation, outliers, and class equalization and model is able to predict the results  
+We observed that there was the problem of overfitting and underfitting which solved by Data augmentation, outliers, and class equalization. the model was well trained for predictions
 
 ### Technologies Used
 Keras
